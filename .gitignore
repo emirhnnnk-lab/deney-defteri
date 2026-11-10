@@ -1,0 +1,7 @@
+node_modules/
+web/dist/
+backend/bin/
+backend/.pgdata/
+backend/.pgdata-runtime/
+*.exe
+__pycache__/

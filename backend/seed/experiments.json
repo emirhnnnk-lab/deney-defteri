@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "support-agent-routing-vs-tool-chain",
+    "created_at": "2026-11-05",
+    "title": "Support agent: does routing accuracy mean the agent is right?",
+    "prediction": "Retro-logged. Assumption at the time: if the agent routes 14/16 tickets correctly, it is mostly doing the right thing.",
+    "action": "Logged the full tool chain for every ticket and compared it with the expected chain, not just the final route.",
+    "result": "Routing 14/16, but the exact tool chain matched in only 3/16: technical tickets opened instead of refunds, identity checks skipped. Moving the decision to a fixed playbook (model only classifies) gave 16/16, and 16/16 in all 5 runs at temperature 0.7 (pass^5).",
+    "lesson": "A headline metric can hide the failure. Measure the behaviour you actually care about, then make the model do less.",
+    "outcome": "refuted",
+    "source": "https://github.com/emirhnnnk-lab/destek-talebi-ajani"
+  },
+  {
+    "slug": "llm-judge-calibration",
+    "created_at": "2026-11-07",
+    "title": "Can a small LLM judge score steered outputs?",
+    "prediction": "Retro-logged. Assumption: a small judge model scores coherent texts close to a second judge from another model family.",
+    "action": "Blind calibration against a judge from a different model family on 13 coherent and 21 total texts.",
+    "result": "Exact agreement only 7/13 (54%) on coherent texts, rank correlation 0.78. It gave 5/5 to 3 of 9 unreadable texts instead of saying it could not score them.",
+    "lesson": "Trust the judge for ranking, not for single scores. Narrowed the reliable steering range to about ±2.",
+    "outcome": "refuted",
+    "source": "https://github.com/emirhnnnk-lab/llm-davranis-cerrahisi"
+  },
+  {
+    "slug": "gsm8k-gain-was-truncation",
+    "created_at": "2026-11-05",
+    "title": "Did removing refusals really improve math (GSM8K)?",
+    "prediction": "Retro-logged. First reading: GSM8K went from 0.15 to 0.45 after the intervention, so it helps math.",
+    "action": "Did not believe it. Wrote a check that saves every answer and read them.",
+    "result": "The 160-token limit was cutting 19 of 20 original answers. At 512 tokens: original 14/20, intervened 13/20. No real difference.",
+    "lesson": "A result that is too good is a bug until proven otherwise. Look at raw outputs before the average.",
+    "outcome": "refuted",
+    "source": "https://github.com/emirhnnnk-lab/llm-reddetme-yorumlanabilirlik"
+  },
+  {
+    "slug": "projection-formula-side",
+    "created_at": "2026-11-05",
+    "title": "Is the refusal direction actually removed from the weights?",
+    "prediction": "Retro-logged. Assumption: projecting the direction out of the weight matrix (from the right) removes it.",
+    "action": "Wrote a unit test that measures how much of the direction is left after projection.",
+    "result": "Old formula (right side): 22.33 left. Fixed formula (left side, for matrices that write to the residual stream): 0.0000043.",
+    "lesson": "The intervention looked like it worked while being applied to the wrong side. A one-line unit test caught what the plots did not.",
+    "outcome": "refuted",
+    "source": "https://github.com/emirhnnnk-lab/llm-reddetme-yorumlanabilirlik"
+  },
+  {
+    "slug": "watchdog-first-night",
+    "created_at": "2026-11-08",
+    "title": "Watchdog agent on its first real job",
+    "prediction": "Retro-logged. Assumption: the watchdog catches a dead job and diagnoses it correctly.",
+    "action": "Put it in front of a real 15-minute video-agent step.",
+    "result": "It caught the failure and correctly asked a human instead of retrying. But it labelled an unknown cause as 'looks permanent' without evidence.",
+    "lesson": "The diagnoser can hallucinate too. Added a signature for this failure type and an explicit 'I don't know' plus the last log line as evidence; tests 11 and 12 cover both.",
+    "outcome": "inconclusive",
+    "source": "https://github.com/emirhnnnk-lab/nobetci"
+  },
+  {
+    "slug": "model-routing-skill-haiku-test",
+    "created_at": "2026-11-10",
+    "title": "Can a zero-context Haiku apply my model-routing rules?",
+    "prediction": "Retro-logged. Assumption: a cheap model with only the skill file picks the right model for all 6 test scenarios.",
+    "action": "Gave 6 scenarios to a zero-context Haiku subagent with only the model-routing skill as context.",
+    "result": "5/6 correct. It sent a one-line edit to Sonnet, where spawning a subagent costs more than doing it in place.",
+    "lesson": "Added the rule 'small jobs are done where they are'. Rules need a cost floor, not just a task-type table.",
+    "outcome": "refuted",
+    "source": "private workspace: .claude/skills/model-yonlendirme"
+  },
+  {
+    "slug": "ab-ticket-routing-3b-vs-7b",
+    "created_at": "2026-11-10",
+    "title": "Ticket routing: is qwen2.5:7b worth the latency over 3b?",
+    "prediction": "Pre-registered: 7b is at least 10 points more accurate than 3b, and 3b is at least 1.5x faster per call. If 3b is within 5 points, classification jobs move to 3b.",
+    "action": "20 labelled tickets (5 classes, TR+EN), 3 rounds, both models through the free-model bridge, calls interleaved (seed 42).",
+    "result": "Accuracy: 3b 42/60 (70%), 7b 51/60 (85%), +15 points (p≈0.049, but 20 distinct tickets repeated 3x, so not independent). Latency: median 0.78s vs 2.44s (3b 3.1x faster); mean 4.27s vs 8.62s is confounded: 27 of 60 7b calls took >10s because interleaving forced Ollama to swap models on a 4 GB GPU. Both models mostly confused account tickets (password, 2FA) with technical; 3b also returned a malformed label ('shippinging') 3 times.",
+    "lesson": "Decision rule applied: 3b is not within 5 points, so classification stays on 7b. Interleaving removed order bias but added a reload cost on small hardware; next run blocks by model with a warm-up call. The prompt needs one-line label definitions for account vs technical.",
+    "outcome": "confirmed",
+    "source": "experiments/ab_ticket_routing.py, experiments/PREREGISTRATION.md"
+  }
+]

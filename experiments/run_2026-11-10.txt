@@ -1,0 +1,480 @@
+[11/10/26 19:57:21] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:57:22] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:57:37] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:57:40] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:57:41] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:57:42] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:57:51] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:57:52] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:07] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:09] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:10] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:13] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:21] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:22] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:41] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:44] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:45] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:58:53] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:12] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:14] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:17] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:19] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:21] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:29] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:30] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:50] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 19:59:52] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:00] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:17] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:19] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:27] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:28] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:29] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:30] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:31] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:32] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:33] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:49] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:00:56] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:01:12] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:01:24] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:01:44] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:01:45] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:01:48] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:01:56] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:02:12] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:02:21] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:02:39] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:02:48] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:05] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:07] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:09] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:12] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:20] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:35] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:37] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:47] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:03:48] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:04:03] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:04:05] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:04:14] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:04:15] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:04:16] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:04:31] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:04:42] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:04:58] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:05:00] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:05:10] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:05:27] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:05:29] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:05:30] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:05:41] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:05:42] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:05:57] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:06:07] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:06:23] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:06:32] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:06:33] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:06:50] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:06:52] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:00] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:16] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:18] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:20] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:29] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:45] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:47] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:49] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:51] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:07:53] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:08:01] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:08:02] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:08:03] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:08:04] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:08:22] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:08:24] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:08:33] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:08:52] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:09:00] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+                    INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:09:18] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:09:26] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:09:27] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:09:42] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:09:44] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:09:51] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:09:52] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+[11/10/26 20:10:08] INFO     HTTP Request: POST                 _client.py:1025
+                             http://localhost:11434/v1/chat/com                
+                             pletions "HTTP/1.1 200 OK"                        
+qwen2.5:3b     6.85s gold=account   pred=technical    MISS
+qwen2.5:3b     0.52s gold=billing   pred=billing      OK
+qwen2.5:3b     0.47s gold=account   pred=account      OK
+qwen2.5:7b    15.22s gold=refund    pred=refund       OK
+qwen2.5:7b     2.15s gold=technical pred=technical    OK
+qwen2.5:7b     1.42s gold=technical pred=technical    OK
+qwen2.5:7b     1.46s gold=account   pred=account      OK
+qwen2.5:3b     8.63s gold=account   pred=technical    MISS
+qwen2.5:3b     0.50s gold=technical pred=technical    OK
+qwen2.5:7b    15.14s gold=shipping  pred=shipping     OK
+qwen2.5:7b     2.12s gold=billing   pred=billing      OK
+qwen2.5:7b     1.68s gold=account   pred=technical    MISS
+qwen2.5:7b     2.32s gold=billing   pred=refund       MISS
+qwen2.5:3b     8.25s gold=refund    pred=refund       OK
+qwen2.5:3b     0.50s gold=shipping  pred=shipping     OK
+qwen2.5:7b    19.50s gold=shipping  pred=shipping     OK
+qwen2.5:7b     2.48s gold=shipping  pred=shipping     OK
+qwen2.5:7b     1.79s gold=technical pred=technical    OK
+qwen2.5:3b     7.89s gold=shipping  pred=technical    MISS
+qwen2.5:7b    18.33s gold=billing   pred=billing      OK
+qwen2.5:7b     2.03s gold=billing   pred=billing      OK
+qwen2.5:7b     3.03s gold=account   pred=technical    MISS
+qwen2.5:7b     2.52s gold=refund    pred=refund       OK
+qwen2.5:7b     1.82s gold=account   pred=account      OK
+qwen2.5:3b     8.38s gold=refund    pred=refund       OK
+qwen2.5:3b     0.81s gold=refund    pred=refund       OK
+qwen2.5:7b    20.06s gold=refund    pred=refund       OK
+qwen2.5:7b     1.94s gold=shipping  pred=shipping     OK
+qwen2.5:3b     7.40s gold=billing   pred=billing      OK
+qwen2.5:3b     0.81s gold=billing   pred=billing      OK
+qwen2.5:7b    16.82s gold=refund    pred=refund       OK
+qwen2.5:7b     1.78s gold=technical pred=technical    OK
+qwen2.5:3b     8.06s gold=technical pred=technical    OK
+qwen2.5:3b     0.69s gold=technical pred=technical    OK
+qwen2.5:3b     0.52s gold=account   pred=technical    MISS
+qwen2.5:3b     0.54s gold=shipping  pred=technical    MISS
+qwen2.5:3b     0.58s gold=shipping  pred=shippinging  MISS
+qwen2.5:3b     0.58s gold=refund    pred=refund       OK
+qwen2.5:3b     0.56s gold=billing   pred=billing      OK
+qwen2.5:3b     0.56s gold=technical pred=technical    OK
+qwen2.5:3b     0.56s gold=shipping  pred=technical    MISS
+qwen2.5:3b     0.56s gold=shipping  pred=shippinging  MISS
+qwen2.5:3b     0.58s gold=shipping  pred=account      MISS
+qwen2.5:3b     0.51s gold=billing   pred=billing      OK
+qwen2.5:7b    15.23s gold=shipping  pred=shipping     OK
+qwen2.5:3b     7.62s gold=shipping  pred=shipping     OK
+qwen2.5:7b    16.19s gold=technical pred=technical    OK
+qwen2.5:3b    11.90s gold=account   pred=technical    MISS
+qwen2.5:7b    19.44s gold=technical pred=technical    OK
+qwen2.5:7b     1.59s gold=account   pred=account      OK
+qwen2.5:7b     2.23s gold=account   pred=technical    MISS
+qwen2.5:3b     8.01s gold=account   pred=account      OK
+qwen2.5:7b    16.33s gold=refund    pred=refund       OK
+qwen2.5:3b     9.43s gold=technical pred=technical    OK
+qwen2.5:7b    17.34s gold=billing   pred=refund       MISS
+qwen2.5:3b     9.69s gold=billing   pred=billing      OK
+qwen2.5:7b    16.22s gold=account   pred=technical    MISS
+qwen2.5:7b     2.29s gold=billing   pred=billing      OK
+qwen2.5:7b     2.39s gold=shipping  pred=shipping     OK
+qwen2.5:7b     2.38s gold=shipping  pred=shipping     OK
+qwen2.5:3b     8.62s gold=billing   pred=billing      OK
+qwen2.5:7b    14.32s gold=refund    pred=refund       OK
+qwen2.5:7b     2.32s gold=refund    pred=refund       OK
+qwen2.5:3b     9.51s gold=technical pred=technical    OK
+qwen2.5:3b     0.55s gold=refund    pred=refund       OK
+qwen2.5:3b     0.56s gold=account   pred=technical    MISS
+qwen2.5:3b     0.55s gold=refund    pred=refund       OK
+qwen2.5:7b    15.05s gold=billing   pred=billing      OK
+qwen2.5:7b     1.58s gold=technical pred=technical    OK
+qwen2.5:3b     9.18s gold=account   pred=account      OK
+qwen2.5:3b     0.73s gold=refund    pred=refund       OK
+qwen2.5:3b     0.79s gold=technical pred=technical    OK
+qwen2.5:7b    15.47s gold=technical pred=technical    OK
+qwen2.5:3b    10.64s gold=technical pred=technical    OK
+qwen2.5:7b    16.31s gold=shipping  pred=shipping     OK
+qwen2.5:7b     2.09s gold=account   pred=account      OK
+qwen2.5:3b     9.63s gold=billing   pred=billing      OK
+qwen2.5:3b     0.77s gold=refund    pred=refund       OK
+qwen2.5:7b    16.67s gold=refund    pred=refund       OK
+qwen2.5:7b     1.84s gold=billing   pred=billing      OK
+qwen2.5:7b     1.52s gold=account   pred=account      OK
+qwen2.5:3b    10.88s gold=technical pred=technical    OK
+qwen2.5:3b     0.74s gold=billing   pred=billing      OK
+qwen2.5:7b    15.04s gold=account   pred=technical    MISS
+qwen2.5:3b     9.65s gold=shipping  pred=technical    MISS
+qwen2.5:7b    16.53s gold=refund    pred=refund       OK
+qwen2.5:3b     8.19s gold=account   pred=technical    MISS
+qwen2.5:3b     0.74s gold=refund    pred=refund       OK
+qwen2.5:3b     0.60s gold=refund    pred=refund       OK
+qwen2.5:7b    16.99s gold=shipping  pred=shipping     OK
+qwen2.5:7b     1.80s gold=shipping  pred=shipping     OK
+qwen2.5:3b     7.85s gold=account   pred=technical    MISS
+qwen2.5:7b    16.61s gold=account   pred=technical    MISS
+qwen2.5:7b     2.03s gold=billing   pred=refund       MISS
+qwen2.5:7b     2.10s gold=billing   pred=billing      OK
+qwen2.5:3b     8.34s gold=technical pred=technical    OK
+qwen2.5:7b    16.40s gold=shipping  pred=shipping     OK
+qwen2.5:7b     1.79s gold=technical pred=technical    OK
+qwen2.5:7b     1.94s gold=refund    pred=refund       OK
+qwen2.5:7b     1.99s gold=billing   pred=billing      OK
+qwen2.5:7b     2.03s gold=refund    pred=refund       OK
+qwen2.5:3b     8.46s gold=refund    pred=refund       OK
+qwen2.5:3b     0.69s gold=technical pred=technical    OK
+qwen2.5:3b     0.66s gold=billing   pred=billing      OK
+qwen2.5:3b     0.59s gold=account   pred=technical    MISS
+qwen2.5:3b     0.60s gold=shipping  pred=shipping     OK
+qwen2.5:7b    18.20s gold=refund    pred=refund       OK
+qwen2.5:7b     2.10s gold=technical pred=technical    OK
+qwen2.5:3b     9.28s gold=billing   pred=billing      OK
+qwen2.5:7b    18.24s gold=technical pred=technical    OK
+qwen2.5:3b     8.04s gold=technical pred=technical    OK
+qwen2.5:3b     0.68s gold=billing   pred=technical    MISS
+qwen2.5:7b    17.60s gold=billing   pred=billing      OK
+qwen2.5:3b     8.20s gold=shipping  pred=technical    MISS
+qwen2.5:3b     0.63s gold=refund    pred=refund       OK
+qwen2.5:7b    15.00s gold=technical pred=technical    OK
+qwen2.5:7b     1.77s gold=account   pred=account      OK
+qwen2.5:3b     7.51s gold=account   pred=account      OK
+qwen2.5:3b     0.65s gold=shipping  pred=shippinging  MISS
+qwen2.5:7b    16.77s gold=shipping  pred=shipping     OK
