@@ -8,7 +8,7 @@
 
 ## Why it exists
 
-I work with coding agents every day, and I make many small decisions: which model runs which job, whether a prompt change helped, whether an agent is actually doing what it reports. I used to keep these in notes. Writing the prediction down *before* the run, and then the number afterwards, catches more of my own mistakes than anything else I do. The seed data is my real log. Five of the seven entries are "refuted": what I believed was not what the measurement showed.
+I work with coding agents every day, and I make many small decisions: which model runs which job, whether a prompt change helped, whether an agent is actually doing what it reports. I used to keep these in notes. Writing the prediction down *before* the run, and then the number afterwards, catches more of my own mistakes than anything else I do. The seed data is my real log. Six of the eight entries are "refuted": what I believed was not what the measurement showed.
 
 This was also my first time writing Go, React/TypeScript or a PostgreSQL schema. I built it in one evening (2026-11-10) to learn the stack on a problem I actually have.
 
@@ -95,5 +95,5 @@ experiments/           A/B script, pre-registration, raw run output, results
 ## Limits
 
 - Single user, no authentication. It listens on `127.0.0.1` by default and is not meant to be exposed.
-- The six seeded experiments other than the A/B test were logged **retroactively** from my project notes. Their "prediction" is the assumption I was working under at the time, and each one links to the repo with the evidence. Only the A/B test was pre-registered.
+- The seven seeded experiments other than the A/B test were logged **retroactively** from my project notes. Their "prediction" is the assumption I was working under at the time, and each one links to the repo with the evidence. Only the A/B test was pre-registered.
 - The statistics are deliberately basic. The z-test assumes independent samples, and repeated runs of the same ticket are not independent, so the view says this next to the p-value.
